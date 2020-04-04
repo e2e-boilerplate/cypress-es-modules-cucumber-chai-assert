@@ -5,8 +5,8 @@ Before(() => {
 });
 
 Given("I am on the sandbox page", async () => {
-  cy.title((title) => {
-    assert.strictEqual(title, "Sandboxx");
+  cy.title().then(($title) => {
+    assert.strictEqual($title, "Sandbox");
   });
 });
 
