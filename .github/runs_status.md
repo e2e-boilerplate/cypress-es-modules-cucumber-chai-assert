@@ -1,11 +1,12 @@
 | No | Date           | Build                                                                                                                                                                  |
 | :- | :------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9  | 04/04/20 18:55 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/70789741) |
-| 8  | 03/04/20 21:54 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/70310317) |
-| 7  | 03/04/20 21:28 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/70303846) |
-| 6  | 03/04/20 21:22 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/70302288) |
 | 4  | 02/04/20 23:46 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/69563297) |
 | 5  | 03/04/20 00:08 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/69574956) |
+| 7  | 03/04/20 21:28 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/70303846) |
 | 2  | 02/04/20 23:07 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/69551223) |
-| 3  | 02/04/20 23:26 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/69556587) |
 | 1  | 02/04/20 22:24 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/69530724) |
+| 6  | 03/04/20 21:22 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/70302288) |
+| 3  | 02/04/20 23:26 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/69556587) |
+| 9  | 04/04/20 18:55 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/70789741) |
+| 10 | 04/04/20 20:09 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/70823439) |
+| 8  | 03/04/20 21:54 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert/actions/runs/70310317) |
