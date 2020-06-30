@@ -9,7 +9,7 @@
   "dependencies": {
     "cucumber": "6.0.5",
     "cypress": "4.9.0",
-    "cypress-cucumber-preprocessor": "2.5.0",
+    "cypress-cucumber-preprocessor": "2.5.1",
     "rimraf": "3.0.2"
   },
   "description": "Cypress end-to-end test automation boilerplate. Using ES Modules, Cucumber, Chai and Assert.",
