@@ -7,7 +7,7 @@
     "nonGlobalStepDefinitions": true
   },
   "dependencies": {
-    "cucumber": "6.0.5",
+    "@cucumber/cucumber": "7.0.0",
     "cypress": "5.6.0",
     "cypress-cucumber-preprocessor": "4.2.0",
     "rimraf": "3.0.2"
